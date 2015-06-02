@@ -1,0 +1,6 @@
+Explique cuales son los modos de programacion en Python
+
+1. Modo interactivo: Es el modo definido por el programa, el cual sirve para depurar un programa y hacer pruebas.
+
+2. Modo normal: se reliza mendiente un editor de texto, tiene que ser estructurado y se hace mendante un editor
+de texto gusrdando cn la extencion .py
